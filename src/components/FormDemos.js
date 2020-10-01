@@ -100,6 +100,7 @@ class FormDemos extends Component {
         <br />
         <h2>Ahh I see you are a {this.state.whichWitch}</h2>
         <h2>and you Like your Children {this.state.favRecipe}</h2>
+        <button>Submit</button>
       </form>
     );
   }
